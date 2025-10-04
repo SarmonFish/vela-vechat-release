@@ -1,0 +1,28 @@
+{
+  "item": {
+    "name": "VeChat",
+    "description": "我想在学校用微信，于是它出现了\n一款专为小米VelaOS手表打造的第三方微信。支持图片、联系人、朋友圈。",
+    "preview": [
+      "preMsglist.png",
+      "preSwitch.png",
+      "preContacts.png",
+      "preMoments0.png",
+      "preMoments1.png",
+      "preMoments2.png",
+      "preSettings.png",
+      "preAbout.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/SarmonFish/vela-vechat-release",
+    "author": [{
+      "name": "沙文鱼Sarmon",
+      "author_url": "https://github.com/SarmonFish"
+    }]
+  },
+  "downloads": {
+    "o65m": {
+      "version": "1.0",
+      "file_name": "OMusic_v1.0.rpk"
+    }
+  }
+}
